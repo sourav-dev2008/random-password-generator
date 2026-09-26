@@ -42,7 +42,7 @@ Both `random` and `string` are part of Python's standard library and are automat
 ```text
 Random-Password-Generator/
 │
-├── password_generator.py
+├── random_password_generator.py
 └── README.md
 ```
 ## ⚙️ Setup & Installation
