@@ -1,6 +1,6 @@
 # 🔒 Random Password Generator
 
-Python-based Random Password Generator which can create a random password depending upon the length inputted by the user.
+Python-based Random Password Generator which can create a random password depending upon the length inputed by the user.
 
 This Python program uses a combination of upper case alphabets, lower case alphabets, numbers, and symbols for creating random passwords.
 
