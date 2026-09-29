@@ -1,15 +1,12 @@
 # 📝 Project Statement – Random Password Generator
 
-**Author:** Sourav Paul
-**Language:** Python 3
-
 ---
 
 ## 1. Problem Statement
 
-Weak, short, and predictable passwords (such as names, birthdays, or "123456") are one of the most common reasons personal accounts get compromised. Many users find it difficult to come up with strong passwords on their own, and they often end up reusing simple ones across multiple accounts.
+One of the most common causes of account vulnerabilities is the use of weak, short, and predictable passwords like names, dates of birth, or "123456". It is very challenging for users to create strong passwords, and thus they tend to reuse the same simple passwords in different accounts.
 
-There is a need for a simple, lightweight tool that can instantly generate a random, hard-to-guess password made up of a mix of uppercase letters, lowercase letters, digits, and special symbols, with a length chosen by the user.
+There is a need for the creation of an easy-to-use tool for generating a completely random, unpredictable password composed of a combination of upper-case letters, lower-case letters, numbers, and symbols of the user's choosing.
 
 ---
 
@@ -25,11 +22,11 @@ There is a need for a simple, lightweight tool that can instantly generate a ran
 
 ### Out of Scope
 
-- Graphical or web-based user interface.
-- Storing, saving, or managing generated passwords (no database or password vault).
-- Password strength checking or scoring.
-- Cryptographically secure generation (the `random` module is used for learning purposes; the `secrets` module would be needed for production-grade security).
-- User accounts, authentication, or network features.
+- Graphical or Web-based user interface.
+- Password storage, saving or management (without a database or a password manager).
+- Password strength estimation.
+- Cryptographically safe password generation (module `random` is used for educational purposes, while `secrets` should be used to ensure strong security).
+- User accounts, authorization or networking.
 
 ---
 
